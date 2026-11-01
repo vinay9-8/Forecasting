@@ -10,10 +10,12 @@ copy .env.example .env
 npm run dev
 ```
 
-Set `VITE_API_BASE_URL` to the API root before starting Vite. It defaults to
-`http://localhost:5000/api`. The API is expected to provide the endpoints in
-the project brief; the dashboard intentionally displays loading, empty, and
-API error states rather than substituting sample data.
+During local development, Vite proxies `/api` requests to the Flask API at
+`http://127.0.0.1:5000`, avoiding cross-origin browser requests. Start the API
+in a separate terminal before using the dashboard. Set `VITE_API_BASE_URL` to
+an absolute API root when deploying the frontend separately; its default is
+`/api`. The dashboard displays loading, empty, and API error states rather than
+substituting sample data.
 
 ## Other commands
 

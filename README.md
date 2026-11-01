@@ -57,7 +57,8 @@ npm run dev
 ```
 
 Open the Vite URL printed in the terminal (normally `http://localhost:5173`).
-The frontend defaults to `http://localhost:5000/api`; set
+Vite proxies `/api` requests to the local Flask server at
+`http://127.0.0.1:5000`; keep the API running in its separate terminal. Set
 `VITE_API_BASE_URL` before starting Vite to use a different API URL.
 
 ## Generate, validate, and export data independently
