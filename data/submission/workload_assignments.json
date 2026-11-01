@@ -66,8 +66,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509801",
-    "updated_at": "2026-11-01T18:57:41.509806"
+    "created_at": "2026-11-01T19:11:04.926839",
+    "updated_at": "2026-11-01T19:11:04.926846"
   },
   {
     "id": "WLA-2027-000002",
@@ -80,8 +80,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509807",
-    "updated_at": "2026-11-01T18:57:41.509808"
+    "created_at": "2026-11-01T19:11:04.926848",
+    "updated_at": "2026-11-01T19:11:04.926849"
   },
   {
     "id": "WLA-2027-000003",
@@ -94,8 +94,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509809",
-    "updated_at": "2026-11-01T18:57:41.509810"
+    "created_at": "2026-11-01T19:11:04.926851",
+    "updated_at": "2026-11-01T19:11:04.926851"
   },
   {
     "id": "WLA-2027-000004",
@@ -108,8 +108,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509811",
-    "updated_at": "2026-11-01T18:57:41.509811"
+    "created_at": "2026-11-01T19:11:04.926852",
+    "updated_at": "2026-11-01T19:11:04.926853"
   },
   {
     "id": "WLA-2027-000005",
@@ -122,8 +122,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509812",
-    "updated_at": "2026-11-01T18:57:41.509813"
+    "created_at": "2026-11-01T19:11:04.926854",
+    "updated_at": "2026-11-01T19:11:04.926854"
   },
   {
     "id": "WLA-2027-000006",
@@ -136,8 +136,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509813",
-    "updated_at": "2026-11-01T18:57:41.509814"
+    "created_at": "2026-11-01T19:11:04.926856",
+    "updated_at": "2026-11-01T19:11:04.926856"
   },
   {
     "id": "WLA-2027-000007",
@@ -150,8 +150,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509815",
-    "updated_at": "2026-11-01T18:57:41.509815"
+    "created_at": "2026-11-01T19:11:04.926857",
+    "updated_at": "2026-11-01T19:11:04.926857"
   },
   {
     "id": "WLA-2027-000008",
@@ -164,8 +164,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509816",
-    "updated_at": "2026-11-01T18:57:41.509817"
+    "created_at": "2026-11-01T19:11:04.926858",
+    "updated_at": "2026-11-01T19:11:04.926859"
   },
   {
     "id": "WLA-2027-000009",
@@ -178,8 +178,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509817",
-    "updated_at": "2026-11-01T18:57:41.509818"
+    "created_at": "2026-11-01T19:11:04.926859",
+    "updated_at": "2026-11-01T19:11:04.926860"
   },
   {
     "id": "WLA-2027-000010",
@@ -192,8 +192,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509818",
-    "updated_at": "2026-11-01T18:57:41.509819"
+    "created_at": "2026-11-01T19:11:04.926861",
+    "updated_at": "2026-11-01T19:11:04.926861"
   },
   {
     "id": "WLA-2027-000011",
@@ -206,8 +206,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509820",
-    "updated_at": "2026-11-01T18:57:41.509820"
+    "created_at": "2026-11-01T19:11:04.926862",
+    "updated_at": "2026-11-01T19:11:04.926863"
   },
   {
     "id": "WLA-2027-000012",
@@ -220,8 +220,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509821",
-    "updated_at": "2026-11-01T18:57:41.509822"
+    "created_at": "2026-11-01T19:11:04.926863",
+    "updated_at": "2026-11-01T19:11:04.926864"
   },
   {
     "id": "WLA-2027-000013",
@@ -234,8 +234,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509822",
-    "updated_at": "2026-11-01T18:57:41.509823"
+    "created_at": "2026-11-01T19:11:04.926865",
+    "updated_at": "2026-11-01T19:11:04.926865"
   },
   {
     "id": "WLA-2027-000014",
@@ -248,8 +248,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509823",
-    "updated_at": "2026-11-01T18:57:41.509824"
+    "created_at": "2026-11-01T19:11:04.926866",
+    "updated_at": "2026-11-01T19:11:04.926866"
   },
   {
     "id": "WLA-2027-000015",
@@ -262,8 +262,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509825",
-    "updated_at": "2026-11-01T18:57:41.509825"
+    "created_at": "2026-11-01T19:11:04.926867",
+    "updated_at": "2026-11-01T19:11:04.926868"
   },
   {
     "id": "WLA-2027-000016",
@@ -276,8 +276,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509826",
-    "updated_at": "2026-11-01T18:57:41.509826"
+    "created_at": "2026-11-01T19:11:04.926869",
+    "updated_at": "2026-11-01T19:11:04.926869"
   },
   {
     "id": "WLA-2027-000017",
@@ -290,8 +290,8 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509827",
-    "updated_at": "2026-11-01T18:57:41.509828"
+    "created_at": "2026-11-01T19:11:04.926870",
+    "updated_at": "2026-11-01T19:11:04.926870"
   },
   {
     "id": "WLA-2027-000018",
@@ -304,7 +304,7 @@
     "lifecycle_state": "assigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.509828",
-    "updated_at": "2026-11-01T18:57:41.509829"
+    "created_at": "2026-11-01T19:11:04.926871",
+    "updated_at": "2026-11-01T19:11:04.926872"
   }
 ]

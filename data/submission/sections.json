@@ -81,8 +81,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.506986",
-    "updated_at": "2026-11-01T18:57:41.506994"
+    "created_at": "2026-11-01T19:11:04.923250",
+    "updated_at": "2026-11-01T19:11:04.923258"
   },
   {
     "id": "SEC-2027-000002",
@@ -98,8 +98,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.506997",
-    "updated_at": "2026-11-01T18:57:41.506998"
+    "created_at": "2026-11-01T19:11:04.923261",
+    "updated_at": "2026-11-01T19:11:04.923262"
   },
   {
     "id": "SEC-2027-000003",
@@ -115,8 +115,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507000",
-    "updated_at": "2026-11-01T18:57:41.507000"
+    "created_at": "2026-11-01T19:11:04.923264",
+    "updated_at": "2026-11-01T19:11:04.923264"
   },
   {
     "id": "SEC-2027-000004",
@@ -132,8 +132,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507001",
-    "updated_at": "2026-11-01T18:57:41.507002"
+    "created_at": "2026-11-01T19:11:04.923266",
+    "updated_at": "2026-11-01T19:11:04.923267"
   },
   {
     "id": "SEC-2027-000005",
@@ -149,8 +149,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507003",
-    "updated_at": "2026-11-01T18:57:41.507003"
+    "created_at": "2026-11-01T19:11:04.923268",
+    "updated_at": "2026-11-01T19:11:04.923269"
   },
   {
     "id": "SEC-2027-000006",
@@ -166,8 +166,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507004",
-    "updated_at": "2026-11-01T18:57:41.507004"
+    "created_at": "2026-11-01T19:11:04.923269",
+    "updated_at": "2026-11-01T19:11:04.923270"
   },
   {
     "id": "SEC-2027-000007",
@@ -183,8 +183,8 @@
     "lifecycle_state": "unassigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507005",
-    "updated_at": "2026-11-01T18:57:41.507005"
+    "created_at": "2026-11-01T19:11:04.923271",
+    "updated_at": "2026-11-01T19:11:04.923272"
   },
   {
     "id": "SEC-2027-000008",
@@ -200,8 +200,8 @@
     "lifecycle_state": "unassigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507006",
-    "updated_at": "2026-11-01T18:57:41.507007"
+    "created_at": "2026-11-01T19:11:04.923272",
+    "updated_at": "2026-11-01T19:11:04.923273"
   },
   {
     "id": "SEC-2027-000009",
@@ -217,8 +217,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507007",
-    "updated_at": "2026-11-01T18:57:41.507008"
+    "created_at": "2026-11-01T19:11:04.923274",
+    "updated_at": "2026-11-01T19:11:04.923274"
   },
   {
     "id": "SEC-2027-000010",
@@ -234,8 +234,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507008",
-    "updated_at": "2026-11-01T18:57:41.507009"
+    "created_at": "2026-11-01T19:11:04.923276",
+    "updated_at": "2026-11-01T19:11:04.923277"
   },
   {
     "id": "SEC-2027-000011",
@@ -251,8 +251,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507010",
-    "updated_at": "2026-11-01T18:57:41.507010"
+    "created_at": "2026-11-01T19:11:04.923278",
+    "updated_at": "2026-11-01T19:11:04.923279"
   },
   {
     "id": "SEC-2027-000012",
@@ -268,8 +268,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507011",
-    "updated_at": "2026-11-01T18:57:41.507011"
+    "created_at": "2026-11-01T19:11:04.923280",
+    "updated_at": "2026-11-01T19:11:04.923281"
   },
   {
     "id": "SEC-2027-000013",
@@ -285,8 +285,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507012",
-    "updated_at": "2026-11-01T18:57:41.507013"
+    "created_at": "2026-11-01T19:11:04.923282",
+    "updated_at": "2026-11-01T19:11:04.923282"
   },
   {
     "id": "SEC-2027-000014",
@@ -302,8 +302,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507013",
-    "updated_at": "2026-11-01T18:57:41.507014"
+    "created_at": "2026-11-01T19:11:04.923283",
+    "updated_at": "2026-11-01T19:11:04.923284"
   },
   {
     "id": "SEC-2027-000015",
@@ -319,8 +319,8 @@
     "lifecycle_state": "unassigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507014",
-    "updated_at": "2026-11-01T18:57:41.507015"
+    "created_at": "2026-11-01T19:11:04.923285",
+    "updated_at": "2026-11-01T19:11:04.923285"
   },
   {
     "id": "SEC-2027-000016",
@@ -336,8 +336,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507016",
-    "updated_at": "2026-11-01T18:57:41.507016"
+    "created_at": "2026-11-01T19:11:04.923286",
+    "updated_at": "2026-11-01T19:11:04.923287"
   },
   {
     "id": "SEC-2027-000017",
@@ -353,8 +353,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507017",
-    "updated_at": "2026-11-01T18:57:41.507017"
+    "created_at": "2026-11-01T19:11:04.923381",
+    "updated_at": "2026-11-01T19:11:04.923390"
   },
   {
     "id": "SEC-2027-000018",
@@ -370,8 +370,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507018",
-    "updated_at": "2026-11-01T18:57:41.507018"
+    "created_at": "2026-11-01T19:11:04.923394",
+    "updated_at": "2026-11-01T19:11:04.923395"
   },
   {
     "id": "SEC-2027-000019",
@@ -387,8 +387,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507019",
-    "updated_at": "2026-11-01T18:57:41.507019"
+    "created_at": "2026-11-01T19:11:04.923396",
+    "updated_at": "2026-11-01T19:11:04.923397"
   },
   {
     "id": "SEC-2027-000020",
@@ -404,8 +404,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507020",
-    "updated_at": "2026-11-01T18:57:41.507021"
+    "created_at": "2026-11-01T19:11:04.923398",
+    "updated_at": "2026-11-01T19:11:04.923398"
   },
   {
     "id": "SEC-2027-000021",
@@ -421,8 +421,8 @@
     "lifecycle_state": "scheduled",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507021",
-    "updated_at": "2026-11-01T18:57:41.507022"
+    "created_at": "2026-11-01T19:11:04.923399",
+    "updated_at": "2026-11-01T19:11:04.923400"
   },
   {
     "id": "SEC-2027-000022",
@@ -438,8 +438,8 @@
     "lifecycle_state": "unassigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507022",
-    "updated_at": "2026-11-01T18:57:41.507023"
+    "created_at": "2026-11-01T19:11:04.923400",
+    "updated_at": "2026-11-01T19:11:04.923401"
   },
   {
     "id": "SEC-2027-000023",
@@ -455,8 +455,8 @@
     "lifecycle_state": "unassigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507024",
-    "updated_at": "2026-11-01T18:57:41.507024"
+    "created_at": "2026-11-01T19:11:04.923402",
+    "updated_at": "2026-11-01T19:11:04.923402"
   },
   {
     "id": "SEC-2027-000024",
@@ -472,7 +472,7 @@
     "lifecycle_state": "unassigned",
     "effective_from": "2026-10-22",
     "effective_to": null,
-    "created_at": "2026-11-01T18:57:41.507025",
-    "updated_at": "2026-11-01T18:57:41.507025"
+    "created_at": "2026-11-01T19:11:04.923403",
+    "updated_at": "2026-11-01T19:11:04.923404"
   }
 ]
