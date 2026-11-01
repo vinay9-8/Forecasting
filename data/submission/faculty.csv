@@ -1,0 +1,13 @@
+id,name,department,years_experience,max_weekly_workload,lifecycle_state,effective_from,effective_to,created_at,updated_at
+FAC-000001,Avery Adams,Computer Science,21,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000002,Jordan Hayes,Computer Science,26,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000003,Morgan Patel,Computer Science,23,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000004,Riley Foster,Mathematics,23,9,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000005,Casey Miller,Mathematics,10,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000006,Taylor Diaz,Mathematics,10,12,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000007,Quinn Kim,Business,33,12,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000008,Cameron Bennett,Business,29,9,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000009,Reese Ibrahim,Business,1,9,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000010,Parker Reed,Engineering,30,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000011,Rowan Gupta,Engineering,18,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+FAC-000012,Skyler Nair,Engineering,35,15,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00

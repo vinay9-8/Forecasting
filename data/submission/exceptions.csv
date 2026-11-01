@@ -1,0 +1,12 @@
+id,entity_id,issue_type,description,severity,detected_at,ground_truth_label,resolution_status,source,created_at
+EXC-000001,SEC-2027-000007,UNASSIGNED_FACULTY,Section SEC-2027-000007 does not have a faculty assignment.,medium,2026-11-01T18:57:41.622566,False,open,dataset_validation,2026-11-01T18:57:41.622566
+EXC-000002,SEC-2027-000008,UNASSIGNED_FACULTY,Section SEC-2027-000008 does not have a faculty assignment.,medium,2026-11-01T18:57:41.622566,False,open,dataset_validation,2026-11-01T18:57:41.622566
+EXC-000003,SEC-2027-000015,UNASSIGNED_FACULTY,Section SEC-2027-000015 does not have a faculty assignment.,medium,2026-11-01T18:57:41.622566,False,open,dataset_validation,2026-11-01T18:57:41.622566
+EXC-000004,SEC-2027-000022,UNASSIGNED_FACULTY,Section SEC-2027-000022 does not have a faculty assignment.,medium,2026-11-01T18:57:41.622566,False,open,dataset_validation,2026-11-01T18:57:41.622566
+EXC-000005,SEC-2027-000023,UNASSIGNED_FACULTY,Section SEC-2027-000023 does not have a faculty assignment.,medium,2026-11-01T18:57:41.622566,False,open,dataset_validation,2026-11-01T18:57:41.622566
+EXC-000006,SEC-2027-000024,UNASSIGNED_FACULTY,Section SEC-2027-000024 does not have a faculty assignment.,medium,2026-11-01T18:57:41.622566,False,open,dataset_validation,2026-11-01T18:57:41.622566
+EXC-000007,CRS-000003,FACULTY_SKILL_MISMATCH,Faculty FAC-000001 is assigned outside their skill set for course CRS-000003.,high,2026-11-01T18:57:41.622566,True,open,isolated_ground_truth,2026-11-01T18:57:41.622566
+EXC-000008,FAC-000001,FACULTY_WORKLOAD_EXCEEDED,Simulated workload exceeds faculty FAC-000001's maximum by 3 hours.,high,2026-11-01T18:57:41.622566,True,open,isolated_ground_truth,2026-11-01T18:57:41.622566
+EXC-000009,SEC-2026-000001,SECTION_CAPACITY_TOO_LOW,Simulated enrollment exceeds room ROM-000002 capacity.,medium,2026-11-01T18:57:41.622566,True,open,isolated_ground_truth,2026-11-01T18:57:41.622566
+EXC-000010,CRS-000002,PREREQUISITE_ORDER_VIOLATION,A simulated course section is scheduled before its prerequisite.,high,2026-11-01T18:57:41.622566,True,open,isolated_ground_truth,2026-11-01T18:57:41.622566
+EXC-000011,SEC-2026-000001,DUPLICATE_SECTION_ASSIGNMENT,Section SEC-2026-000001 is assigned twice in the isolated test case.,medium,2026-11-01T18:57:41.622566,True,open,isolated_ground_truth,2026-11-01T18:57:41.622566

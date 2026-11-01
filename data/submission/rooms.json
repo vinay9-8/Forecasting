@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ROM-000001",
+    "room_code": "SCI-101",
+    "building": "North",
+    "capacity": 60,
+    "room_type": "lecture",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000002",
+    "room_code": "ART-102",
+    "building": "Central",
+    "capacity": 24,
+    "room_type": "seminar",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000003",
+    "room_code": "ENG-103",
+    "building": "South",
+    "capacity": 90,
+    "room_type": "seminar",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000004",
+    "room_code": "BUS-104",
+    "building": "Innovation",
+    "capacity": 30,
+    "room_type": "lecture",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000005",
+    "room_code": "SCI-105",
+    "building": "North",
+    "capacity": 24,
+    "room_type": "lecture",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000006",
+    "room_code": "ART-106",
+    "building": "Central",
+    "capacity": 24,
+    "room_type": "seminar",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000007",
+    "room_code": "ENG-107",
+    "building": "South",
+    "capacity": 90,
+    "room_type": "lecture",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "ROM-000008",
+    "room_code": "BUS-108",
+    "building": "Innovation",
+    "capacity": 30,
+    "room_type": "lab",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  }
+]

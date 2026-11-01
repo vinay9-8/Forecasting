@@ -1,0 +1,127 @@
+[
+  {
+    "id": "AUD-000001",
+    "entity_type": "dataset",
+    "entity_id": "starter-20261022",
+    "action": "generated",
+    "details": {
+      "mode": "starter",
+      "seed": 20261022,
+      "row_counts": {
+        "programs": 4,
+        "courses": 24,
+        "prerequisites": 3,
+        "student_plans": 160,
+        "registration_interests": 1918,
+        "faculty": 12,
+        "faculty_skills": 44,
+        "availabilities": 240,
+        "rooms": 8,
+        "sections": 4,
+        "workload_assignments": 4
+      }
+    },
+    "occurred_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "AUD-000002",
+    "entity_type": "forecast_run",
+    "entity_id": "FRN-2027-000001",
+    "action": "forecast_created",
+    "details": {
+      "term_code": "2027-Fall",
+      "algorithm": "random_forest",
+      "metrics": {
+        "random_forest": {
+          "mae": 2.238771577380951,
+          "rmse": 3.0489028908938685,
+          "mape": 18.62071879349462,
+          "r2": 0.7550350131602612
+        },
+        "moving_average": {
+          "mae": 5.883333333333335,
+          "rmse": 7.454864183873506,
+          "mape": 75.92517939576763,
+          "r2": -0.4645233546346925
+        },
+        "train_samples": 76,
+        "test_samples": 20,
+        "zero_actual_test_samples": 0,
+        "seed": 20261022
+      },
+      "result_count": 24
+    },
+    "occurred_at": "2026-11-01T18:57:41.446763"
+  },
+  {
+    "id": "AUD-000003",
+    "entity_type": "allocation",
+    "entity_id": "2027-Fall-000003",
+    "action": "sections_allocated",
+    "details": {
+      "term_code": "2027-Fall",
+      "metrics": {
+        "sections_generated": 24,
+        "faculty_allocation_success_rate": 0.75,
+        "section_capacity_utilization": 0.14754098360655737,
+        "total_unmet_demand": 0,
+        "faculty_workload_utilization": 0.36538461538461536,
+        "skill_matching_rate": 1.0,
+        "constraint_violation_count": 0
+      },
+      "unmet_demand": {},
+      "exceptions": [
+        {
+          "entity_id": "SEC-2027-000007",
+          "issue_type": "UNASSIGNED_FACULTY",
+          "description": "No qualified, available faculty member with workload capacity could be assigned to section SEC-2027-000007.",
+          "severity": "high"
+        },
+        {
+          "entity_id": "SEC-2027-000008",
+          "issue_type": "UNASSIGNED_FACULTY",
+          "description": "No qualified, available faculty member with workload capacity could be assigned to section SEC-2027-000008.",
+          "severity": "high"
+        },
+        {
+          "entity_id": "SEC-2027-000015",
+          "issue_type": "UNASSIGNED_FACULTY",
+          "description": "No qualified, available faculty member with workload capacity could be assigned to section SEC-2027-000015.",
+          "severity": "high"
+        },
+        {
+          "entity_id": "SEC-2027-000022",
+          "issue_type": "UNASSIGNED_FACULTY",
+          "description": "No qualified, available faculty member with workload capacity could be assigned to section SEC-2027-000022.",
+          "severity": "high"
+        },
+        {
+          "entity_id": "SEC-2027-000023",
+          "issue_type": "UNASSIGNED_FACULTY",
+          "description": "No qualified, available faculty member with workload capacity could be assigned to section SEC-2027-000023.",
+          "severity": "high"
+        },
+        {
+          "entity_id": "SEC-2027-000024",
+          "issue_type": "UNASSIGNED_FACULTY",
+          "description": "No qualified, available faculty member with workload capacity could be assigned to section SEC-2027-000024.",
+          "severity": "high"
+        }
+      ]
+    },
+    "occurred_at": "2026-11-01T18:57:41.501984"
+  },
+  {
+    "id": "AUD-000004",
+    "entity_type": "validation_run",
+    "entity_id": "VAL-000001",
+    "action": "dataset_validated",
+    "details": {
+      "validation_status": "warning",
+      "total_checks": 13,
+      "failed_checks": 0,
+      "issue_count": 11
+    },
+    "occurred_at": "2026-11-01T18:57:41.622566"
+  }
+]

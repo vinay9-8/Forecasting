@@ -1,0 +1,35 @@
+{
+  "seed": 20261022,
+  "scenarios": [
+    {
+      "scenario_id": "ANOM-UNSKILLED-FACULTY",
+      "issue_type": "FACULTY_SKILL_MISMATCH",
+      "ground_truth_label": true,
+      "severity": "high"
+    },
+    {
+      "scenario_id": "ANOM-WORKLOAD-OVERFLOW",
+      "issue_type": "FACULTY_WORKLOAD_EXCEEDED",
+      "ground_truth_label": true,
+      "severity": "high"
+    },
+    {
+      "scenario_id": "ANOM-SECTION-OVER-CAPACITY",
+      "issue_type": "SECTION_CAPACITY_EXCEEDED",
+      "ground_truth_label": true,
+      "severity": "high"
+    },
+    {
+      "scenario_id": "ANOM-PREREQUISITE-ORDER",
+      "issue_type": "PREREQUISITE_ORDER_VIOLATION",
+      "ground_truth_label": true,
+      "severity": "high"
+    },
+    {
+      "scenario_id": "ANOM-DUPLICATE-ASSIGNMENT",
+      "issue_type": "DUPLICATE_SECTION_ASSIGNMENT",
+      "ground_truth_label": true,
+      "severity": "medium"
+    }
+  ]
+}

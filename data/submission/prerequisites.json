@@ -1,0 +1,35 @@
+[
+  {
+    "id": "PRE-000001",
+    "course_id": "CRS-000002",
+    "required_course_id": "CRS-000001",
+    "minimum_grade": "D",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "PRE-000002",
+    "course_id": "CRS-000017",
+    "required_course_id": "CRS-000013",
+    "minimum_grade": "D",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "PRE-000003",
+    "course_id": "CRS-000020",
+    "required_course_id": "CRS-000019",
+    "minimum_grade": "D",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  }
+]

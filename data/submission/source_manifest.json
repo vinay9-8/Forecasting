@@ -1,0 +1,108 @@
+{
+  "entities": {
+    "audit_events": {
+      "csv_file": "audit_events.csv",
+      "json_file": "audit_events.json",
+      "row_count": 4,
+      "sha256": "fc22fb2ab22783f6466ec3ab9c278fee7f2c0ebac59eee3c4c5ac149c823e92c"
+    },
+    "availabilities": {
+      "csv_file": "availabilities.csv",
+      "json_file": "availabilities.json",
+      "row_count": 240,
+      "sha256": "5ee3b2605adbd47d5d850aefb7db67d1263b1169cadb6238357feaa553de8626"
+    },
+    "courses": {
+      "csv_file": "courses.csv",
+      "json_file": "courses.json",
+      "row_count": 24,
+      "sha256": "061710674323f17c7b5e83e46c42f351e3ddd93c867500752ce26108bd80063b"
+    },
+    "exceptions": {
+      "csv_file": "exceptions.csv",
+      "json_file": "exceptions.json",
+      "row_count": 11,
+      "sha256": "961246a98594eb9b8c95def253427850c1abeb3c934a462494325f5e5034ff04"
+    },
+    "faculty": {
+      "csv_file": "faculty.csv",
+      "json_file": "faculty.json",
+      "row_count": 12,
+      "sha256": "990f999e654b841c17e8ef37fb6a8bce6ca5e726932e840d15ca00a3a38ac76c"
+    },
+    "faculty_skills": {
+      "csv_file": "faculty_skills.csv",
+      "json_file": "faculty_skills.json",
+      "row_count": 44,
+      "sha256": "966bc58d1eefc3a1592a88786759cbd56d80e1a2dcfada5cc83bf9de2ee927b7"
+    },
+    "forecast_results": {
+      "csv_file": "forecast_results.csv",
+      "json_file": "forecast_results.json",
+      "row_count": 24,
+      "sha256": "46cf40a7d606fd75bd78f37b97b96a59a1aba3caf00261518ecb825fd6d4ec27"
+    },
+    "forecast_runs": {
+      "csv_file": "forecast_runs.csv",
+      "json_file": "forecast_runs.json",
+      "row_count": 1,
+      "sha256": "2e211fc3d64a886458db7192bf730feb3cebf783996695d6e06244407a413d6e"
+    },
+    "prerequisites": {
+      "csv_file": "prerequisites.csv",
+      "json_file": "prerequisites.json",
+      "row_count": 3,
+      "sha256": "7cd3674639e5a866a76c6b767229bee87a6f7a781f70c0c5ff9895d0fd573b3f"
+    },
+    "programs": {
+      "csv_file": "programs.csv",
+      "json_file": "programs.json",
+      "row_count": 4,
+      "sha256": "e2598cad45c20fe109dacec01064b759e6191c25eb8bfed1ed645e72d6d54239"
+    },
+    "registration_interests": {
+      "csv_file": "registration_interests.csv",
+      "json_file": "registration_interests.json",
+      "row_count": 1918,
+      "sha256": "a35dbed5347b01ff9de14b32e55a5c5183e8d4f95d1e75af5fbefec2d78326af"
+    },
+    "rooms": {
+      "csv_file": "rooms.csv",
+      "json_file": "rooms.json",
+      "row_count": 8,
+      "sha256": "c40101bc64d05e346f036a0c7c9c3709778067b1774deda568dc5738e304894c"
+    },
+    "sections": {
+      "csv_file": "sections.csv",
+      "json_file": "sections.json",
+      "row_count": 28,
+      "sha256": "4f17a14e0f761c8d28c0efddb099d07ed24a4958703f3109e095af30e11695df"
+    },
+    "student_plans": {
+      "csv_file": "student_plans.csv",
+      "json_file": "student_plans.json",
+      "row_count": 160,
+      "sha256": "34f3b32d371bac45b5051120900aa4fdbbdd186a152619fe5d1ae8e80b65efb2"
+    },
+    "validation_runs": {
+      "csv_file": "validation_runs.csv",
+      "json_file": "validation_runs.json",
+      "row_count": 1,
+      "sha256": "a47be6ac8b83541c030b7ed51f40eafc7eb7822446d994ee77014381a3fcb384"
+    },
+    "workload_assignments": {
+      "csv_file": "workload_assignments.csv",
+      "json_file": "workload_assignments.json",
+      "row_count": 22,
+      "sha256": "6f63f636f614932b78e48cb835f5b1f788ec6f0db6efa13881bf40cfd227cf86"
+    }
+  },
+  "generated_at": "2026-11-02T00:27:41.653064+05:30",
+  "ground_truth": {
+    "csv_file": "ground_truth.csv",
+    "json_file": "ground_truth.json",
+    "row_count": 5,
+    "sha256": "10e3c0a113281a5a63d190415e5ae4bede87aa902b3a4b877c9e07bc58de0ba5"
+  },
+  "sql_seed": "seed.sql"
+}

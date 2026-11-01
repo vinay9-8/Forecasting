@@ -1,0 +1,50 @@
+[
+  {
+    "id": "PRG-000001",
+    "program_code": "COM-001",
+    "name": "Computer Science BSc",
+    "department": "Computer Science",
+    "degree_level": "undergraduate",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "PRG-000002",
+    "program_code": "MAT-002",
+    "name": "Mathematics BA",
+    "department": "Mathematics",
+    "degree_level": "undergraduate",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "PRG-000003",
+    "program_code": "BUS-003",
+    "name": "Business MSc",
+    "department": "Business",
+    "degree_level": "graduate",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  },
+  {
+    "id": "PRG-000004",
+    "program_code": "ENG-004",
+    "name": "Engineering BEng",
+    "department": "Engineering",
+    "degree_level": "undergraduate",
+    "lifecycle_state": "active",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "created_at": "2026-10-22T00:00:00",
+    "updated_at": "2026-10-22T00:00:00"
+  }
+]

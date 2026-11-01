@@ -1,0 +1,5 @@
+id,program_code,name,department,degree_level,lifecycle_state,effective_from,effective_to,created_at,updated_at
+PRG-000001,COM-001,Computer Science BSc,Computer Science,undergraduate,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+PRG-000002,MAT-002,Mathematics BA,Mathematics,undergraduate,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+PRG-000003,BUS-003,Business MSc,Business,graduate,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+PRG-000004,ENG-004,Engineering BEng,Engineering,undergraduate,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00

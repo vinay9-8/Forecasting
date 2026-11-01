@@ -1,0 +1,6 @@
+id,entity_id,issue_type,description,severity,ground_truth_label
+GT-000001,CRS-000003,FACULTY_SKILL_MISMATCH,Faculty FAC-000001 is assigned outside their skill set for course CRS-000003.,high,True
+GT-000002,FAC-000001,FACULTY_WORKLOAD_EXCEEDED,Simulated workload exceeds faculty FAC-000001's maximum by 3 hours.,high,True
+GT-000003,SEC-2026-000001,SECTION_CAPACITY_TOO_LOW,Simulated enrollment exceeds room ROM-000002 capacity.,medium,True
+GT-000004,CRS-000002,PREREQUISITE_ORDER_VIOLATION,A simulated course section is scheduled before its prerequisite.,high,True
+GT-000005,SEC-2026-000001,DUPLICATE_SECTION_ASSIGNMENT,Section SEC-2026-000001 is assigned twice in the isolated test case.,medium,True

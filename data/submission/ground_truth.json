@@ -1,0 +1,42 @@
+[
+  {
+    "id": "GT-000001",
+    "entity_id": "CRS-000003",
+    "issue_type": "FACULTY_SKILL_MISMATCH",
+    "description": "Faculty FAC-000001 is assigned outside their skill set for course CRS-000003.",
+    "severity": "high",
+    "ground_truth_label": true
+  },
+  {
+    "id": "GT-000002",
+    "entity_id": "FAC-000001",
+    "issue_type": "FACULTY_WORKLOAD_EXCEEDED",
+    "description": "Simulated workload exceeds faculty FAC-000001's maximum by 3 hours.",
+    "severity": "high",
+    "ground_truth_label": true
+  },
+  {
+    "id": "GT-000003",
+    "entity_id": "SEC-2026-000001",
+    "issue_type": "SECTION_CAPACITY_TOO_LOW",
+    "description": "Simulated enrollment exceeds room ROM-000002 capacity.",
+    "severity": "medium",
+    "ground_truth_label": true
+  },
+  {
+    "id": "GT-000004",
+    "entity_id": "CRS-000002",
+    "issue_type": "PREREQUISITE_ORDER_VIOLATION",
+    "description": "A simulated course section is scheduled before its prerequisite.",
+    "severity": "high",
+    "ground_truth_label": true
+  },
+  {
+    "id": "GT-000005",
+    "entity_id": "SEC-2026-000001",
+    "issue_type": "DUPLICATE_SECTION_ASSIGNMENT",
+    "description": "Section SEC-2026-000001 is assigned twice in the isolated test case.",
+    "severity": "medium",
+    "ground_truth_label": true
+  }
+]

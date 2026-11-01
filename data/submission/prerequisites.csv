@@ -1,0 +1,4 @@
+id,course_id,required_course_id,minimum_grade,lifecycle_state,effective_from,effective_to,created_at,updated_at
+PRE-000001,CRS-000002,CRS-000001,D,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+PRE-000002,CRS-000017,CRS-000013,D,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00
+PRE-000003,CRS-000020,CRS-000019,D,active,2026-01-01,,2026-10-22T00:00:00,2026-10-22T00:00:00

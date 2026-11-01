@@ -1,0 +1,2 @@
+id,term_code,algorithm,metrics,created_at
+FRN-2027-000001,2027-Fall,random_forest,"{'random_forest': {'mae': 2.238771577380951, 'rmse': 3.0489028908938685, 'mape': 18.62071879349462, 'r2': 0.7550350131602612}, 'moving_average': {'mae': 5.883333333333335, 'rmse': 7.454864183873506, 'mape': 75.92517939576763, 'r2': -0.4645233546346925}, 'train_samples': 76, 'test_samples': 20, 'zero_actual_test_samples': 0, 'seed': 20261022}",2026-11-01T18:57:41.446763
